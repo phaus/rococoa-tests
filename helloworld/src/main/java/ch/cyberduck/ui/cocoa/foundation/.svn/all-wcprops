@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/9658/trunk/source/ch/cyberduck/ui/cocoa/foundation
+END
+NSDate.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/5612/trunk/source/ch/cyberduck/ui/cocoa/foundation/NSDate.java
+END
+NSArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/5846/trunk/source/ch/cyberduck/ui/cocoa/foundation/NSArray.java
+END
+NSEnumerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/5612/trunk/source/ch/cyberduck/ui/cocoa/foundation/NSEnumerator.java
+END
+NSMutableData.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/5612/trunk/source/ch/cyberduck/ui/cocoa/foundation/NSMutableData.java
+END
+NSNotification.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/5612/trunk/source/ch/cyberduck/ui/cocoa/foundation/NSNotification.java
+END
+NSNotificationCenter.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/5612/trunk/source/ch/cyberduck/ui/cocoa/foundation/NSNotificationCenter.java
+END
+NSNumber.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/8622/trunk/source/ch/cyberduck/ui/cocoa/foundation/NSNumber.java
+END
+NSMutableArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/6713/trunk/source/ch/cyberduck/ui/cocoa/foundation/NSMutableArray.java
+END
+NSKeyedUnarchiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/9658/trunk/source/ch/cyberduck/ui/cocoa/foundation/NSKeyedUnarchiver.java
+END
+NSSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/5612/trunk/source/ch/cyberduck/ui/cocoa/foundation/NSSet.java
+END
+NSRange.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/5612/trunk/source/ch/cyberduck/ui/cocoa/foundation/NSRange.java
+END
+NSCoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/6904/trunk/source/ch/cyberduck/ui/cocoa/foundation/NSCoder.java
+END
+NSAttributedString.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/6689/trunk/source/ch/cyberduck/ui/cocoa/foundation/NSAttributedString.java
+END
+NSGarbageCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/5846/trunk/source/ch/cyberduck/ui/cocoa/foundation/NSGarbageCollector.java
+END
+NSDateFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/7674/trunk/source/ch/cyberduck/ui/cocoa/foundation/NSDateFormatter.java
+END
+NSURL.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/5612/trunk/source/ch/cyberduck/ui/cocoa/foundation/NSURL.java
+END
+NSFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/5612/trunk/source/ch/cyberduck/ui/cocoa/foundation/NSFormatter.java
+END
+NSAutoreleasePool.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/5612/trunk/source/ch/cyberduck/ui/cocoa/foundation/NSAutoreleasePool.java
+END
+NSDictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/6767/trunk/source/ch/cyberduck/ui/cocoa/foundation/NSDictionary.java
+END
+NSUserDefaults.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/5612/trunk/source/ch/cyberduck/ui/cocoa/foundation/NSUserDefaults.java
+END
+NSMutableAttributedString.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/6689/trunk/source/ch/cyberduck/ui/cocoa/foundation/NSMutableAttributedString.java
+END
+NSBundle.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/5612/trunk/source/ch/cyberduck/ui/cocoa/foundation/NSBundle.java
+END
+NSZone.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/5612/trunk/source/ch/cyberduck/ui/cocoa/foundation/NSZone.java
+END
+NSValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/5612/trunk/source/ch/cyberduck/ui/cocoa/foundation/NSValue.java
+END
+NSMutableDictionary.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/5846/trunk/source/ch/cyberduck/ui/cocoa/foundation/NSMutableDictionary.java
+END
+NSIndexSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/5612/trunk/source/ch/cyberduck/ui/cocoa/foundation/NSIndexSet.java
+END
+NSAppleScript.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/5612/trunk/source/ch/cyberduck/ui/cocoa/foundation/NSAppleScript.java
+END
+NSDistributedNotificationCenter.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/5612/trunk/source/ch/cyberduck/ui/cocoa/foundation/NSDistributedNotificationCenter.java
+END
+NSTimeZone.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/5612/trunk/source/ch/cyberduck/ui/cocoa/foundation/NSTimeZone.java
+END
+FoundationKitFunctionsLibrary.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/8898/trunk/source/ch/cyberduck/ui/cocoa/foundation/FoundationKitFunctionsLibrary.java
+END
+NSAppleEventManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/5612/trunk/source/ch/cyberduck/ui/cocoa/foundation/NSAppleEventManager.java
+END
+NSLocale.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/5846/trunk/source/ch/cyberduck/ui/cocoa/foundation/NSLocale.java
+END
+NSAppleEventDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/5612/trunk/source/ch/cyberduck/ui/cocoa/foundation/NSAppleEventDescriptor.java
+END
+NSObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/7179/trunk/source/ch/cyberduck/ui/cocoa/foundation/NSObject.java
+END
+FoundationKitFunctions.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/8898/trunk/source/ch/cyberduck/ui/cocoa/foundation/FoundationKitFunctions.java
+END
+NSString.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/5612/trunk/source/ch/cyberduck/ui/cocoa/foundation/NSString.java
+END
+NSThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/5612/trunk/source/ch/cyberduck/ui/cocoa/foundation/NSThread.java
+END
+NSCopying.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/5612/trunk/source/ch/cyberduck/ui/cocoa/foundation/NSCopying.java
+END
+NSData.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/5612/trunk/source/ch/cyberduck/ui/cocoa/foundation/NSData.java
+END
+NSFileManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/8322/trunk/source/ch/cyberduck/ui/cocoa/foundation/NSFileManager.java
+END

@@ -1,0 +1,85 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 42;
+	objects = {
+
+/* Begin PBXFileReference section */
+		17A2C18315F257B200CC6C5E /* English */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = English; path = English.lproj/HelloWorld.nib; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		17A2C17915F2579B00CC6C5E = {
+			isa = PBXGroup;
+			children = (
+				17DD74B615F29ABB008D01B4 /* HelloWorld.nib */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		17A2C17B15F2579B00CC6C5E /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 17A2C17E15F2579B00CC6C5E /* Build configuration list for PBXProject "helloworld" */;
+			compatibilityVersion = "Xcode 2.4";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+			);
+			mainGroup = 17A2C17915F2579B00CC6C5E;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXVariantGroup section */
+		17DD74B615F29ABB008D01B4 /* HelloWorld.nib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				17A2C18315F257B200CC6C5E /* English */,
+			);
+			name = HelloWorld.nib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		17A2C17C15F2579B00CC6C5E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+			};
+			name = Debug;
+		};
+		17A2C17D15F2579B00CC6C5E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = YES;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		17A2C17E15F2579B00CC6C5E /* Build configuration list for PBXProject "helloworld" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				17A2C17C15F2579B00CC6C5E /* Debug */,
+				17A2C17D15F2579B00CC6C5E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 17A2C17B15F2579B00CC6C5E /* Project object */;
+}

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/354/trunk/rococoa/rococoa-core/src/main/java/org/rococoa
+END
+Selector.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/160/trunk/rococoa/rococoa-core/src/main/java/org/rococoa/Selector.java
+END
+ReturnType.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/160/trunk/rococoa/rococoa-core/src/main/java/org/rococoa/ReturnType.java
+END
+ObjCClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/317/trunk/rococoa/rococoa-core/src/main/java/org/rococoa/ObjCClass.java
+END
+ObjCObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/317/trunk/rococoa/rococoa-core/src/main/java/org/rococoa/ObjCObject.java
+END
+RococoaException.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/331/trunk/rococoa/rococoa-core/src/main/java/org/rococoa/RococoaException.java
+END
+Rococoa.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/354/trunk/rococoa/rococoa-core/src/main/java/org/rococoa/Rococoa.java
+END
+Foundation.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/354/trunk/rococoa/rococoa-core/src/main/java/org/rococoa/Foundation.java
+END
+IDByReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/354/trunk/rococoa/rococoa-core/src/main/java/org/rococoa/IDByReference.java
+END
+ReleaseInFinalize.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/354/trunk/rococoa/rococoa-core/src/main/java/org/rococoa/ReleaseInFinalize.java
+END
+ID.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/160/trunk/rococoa/rococoa-core/src/main/java/org/rococoa/ID.java
+END
+StringEncoding.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/331/trunk/rococoa/rococoa-core/src/main/java/org/rococoa/StringEncoding.java
+END
+AlreadyRetained.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/331/trunk/rococoa/rococoa-core/src/main/java/org/rococoa/AlreadyRetained.java
+END
+ObjCObjectByReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/317/trunk/rococoa/rococoa-core/src/main/java/org/rococoa/ObjCObjectByReference.java
+END
+RunOnMainThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/221/trunk/rococoa/rococoa-core/src/main/java/org/rococoa/RunOnMainThread.java
+END

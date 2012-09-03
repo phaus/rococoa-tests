@@ -1,1 +1,14 @@
 target/
+
+.DS_Store
+
+**/.DS_Store
+
+helloworld/dist
+
+helloworld/target
+*.pbxuser
+
+*.mode1v3
+
+helloworld/xcode/build

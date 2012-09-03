@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/345/trunk/rococoa/rococoa-core/src/main/native
+END
+test.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/345/trunk/rococoa/rococoa-core/src/main/native/test.m
+END
+Rococoa.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/309/trunk/rococoa/rococoa-core/src/main/native/Rococoa.h
+END
+ProxyForJava.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/233/trunk/rococoa/rococoa-core/src/main/native/ProxyForJava.h
+END
+Rococoa.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/309/trunk/rococoa/rococoa-core/src/main/native/Rococoa.m
+END
+scratch.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/160/trunk/rococoa/rococoa-core/src/main/native/scratch.m
+END
+test.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/337/trunk/rococoa/rococoa-core/src/main/native/test.h
+END
+ProxyForJava.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/234/trunk/rococoa/rococoa-core/src/main/native/ProxyForJava.m
+END
