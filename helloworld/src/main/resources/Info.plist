@@ -7,7 +7,7 @@
     <key>CFBundleIdentifier</key>
     <string>de.javastream.rococoa.apptest.App</string>
     <key>CFBundleVersion</key>
-    <string>100.0</string>
+    <string>${version}</string>
     <key>CFBundleAllowMixedLocalizations</key>
     <string>true</string>
     <key>CFBundleExecutable</key>

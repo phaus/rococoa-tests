@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		1789DB1B15FFAED400F2E735 /* MyObject.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyObject.m; sourceTree = "<group>"; };
+		1789DB1C15FFAED400F2E735 /* MyObject.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MyObject.h; sourceTree = "<group>"; };
 		17A2C18315F257B200CC6C5E /* English */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = English; path = English.lproj/HelloWorld.nib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -14,6 +16,8 @@
 		17A2C17915F2579B00CC6C5E = {
 			isa = PBXGroup;
 			children = (
+				1789DB1B15FFAED400F2E735 /* MyObject.m */,
+				1789DB1C15FFAED400F2E735 /* MyObject.h */,
 				17DD74B615F29ABB008D01B4 /* HelloWorld.nib */,
 			);
 			sourceTree = "<group>";
