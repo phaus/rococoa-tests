@@ -12,3 +12,7 @@ helloworld/target
 *.mode1v3
 
 helloworld/xcode/build
+
+helloworld/xcode/helloworld.xcodeproj/project.xcworkspace/xcuserdata/philipp.xcuserdatad/UserInterfaceState.xcuserstate
+
+helloworld/xcode/helloworld.xcodeproj/project.xcworkspace/xcuserdata/philipp.xcuserdatad/WorkspaceSettings.xcsettings
